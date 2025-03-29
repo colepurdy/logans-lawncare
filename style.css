@@ -1,0 +1,75 @@
+/* font-size: 6em;
+        font-family: "Amatic SC", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        color: #c68803;
+*/
+
+/* font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+*/
+
+body {background-color: #c8aa1b !important;}
+
+.nav-link{
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:  #c8aa1b !important;
+}
+
+.navbar{
+    background-color: #2e7e22 !important;
+    background-image: none !important;
+}
+
+.navbar .container-fluid{
+    background-color: inherit !important;
+}
+
+.navbar-brand{
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:  #c8aa1b !important;
+}
+
+h1 {
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+.lead {
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+.carousel{
+    width: 35%;
+    display: flex;
+    justify-self: center !important;
+    margin-top: 2vh;
+}
+
+#cust-picture{
+    width: 60%;
+}
+
+.testimonials{
+    padding: 0%;
+    margin-top: -10vh !;
+    margin-bottom: -20vh !important;
+}
+
